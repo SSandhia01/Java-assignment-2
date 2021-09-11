@@ -1,0 +1,10 @@
+package data_conversion;
+
+public class data_conversion.java {
+  public static void main(string[] args) {
+  // TODO auto generated method Stub
+  int a=5;
+  System.out.println("int a="+a+" converted to long:"+(long)a);
+  System.out.println("int a="+a+" converted to long:"+(float)a);
+  }
+}
